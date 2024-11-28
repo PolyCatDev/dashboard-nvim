@@ -1,3 +1,6 @@
+> [!WARNING]
+> This is a fork and all I did is change the default header. For a properly maintained plugin go to the [original project](https://github.com/nvimdev/dashboard-nvim)
+
 <h1 align="center">
   Fancy and Blazing Fast start screen plugin of neovim
 </h1>
